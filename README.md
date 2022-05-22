@@ -1,6 +1,6 @@
 # Project 9 - Front-end Dashboard
 
-This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
+This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee. Application can be found [here](https://github.com/Dimterion/Sports-coaching-app-frontend)
 
 ## 1. General information
 
